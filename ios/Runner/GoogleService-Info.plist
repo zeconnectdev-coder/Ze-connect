@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>940921448646-l7jcqik3p8723rs6ngm27tgul34d8njl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.940921448646-l7jcqik3p8723rs6ngm27tgul34d8njl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>940921448646-g7f0qs8ik2f6tp5c2n3c4vb4bq4j74ti.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2-iQF2vMTEPfCkhb3pMAkgMNjsl3XkEo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>940921448646</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zeConnect</string>
+	<key>PROJECT_ID</key>
+	<string>ze-connect-v2-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ze-connect-v2-dev.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:940921448646:ios:5fbf3b0b241876f4700fc7</string>
+</dict>
+</plist>

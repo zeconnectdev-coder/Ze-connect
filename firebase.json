@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ze-connect-v2-dev",
+          "appId": "1:940921448646:android:b818f9ae71248334700fc7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ze-connect-v2-dev",
+          "configurations": {
+            "android": "1:940921448646:android:b818f9ae71248334700fc7",
+            "ios": "1:940921448646:ios:5fbf3b0b241876f4700fc7",
+            "macos": "1:940921448646:ios:5fbf3b0b241876f4700fc7",
+            "web": "1:940921448646:web:ba59df4e9ec3e2c7700fc7",
+            "windows": "1:940921448646:web:3347e49a531c8e30700fc7"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

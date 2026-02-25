@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "940921448646",
+    "project_id": "ze-connect-v2-dev",
+    "storage_bucket": "ze-connect-v2-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940921448646:android:b818f9ae71248334700fc7",
+        "android_client_info": {
+          "package_name": "com.example.ze_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940921448646-g7f0qs8ik2f6tp5c2n3c4vb4bq4j74ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ze_connect",
+            "certificate_hash": "2a02031c684eb53fe0c559903a3f251c69f29877"
+          }
+        },
+        {
+          "client_id": "940921448646-oroja8rdp6987o567hvhd8b1f0s6qo3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hPtIcwevHv6fXkXbvrzAljeBmfpGPCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940921448646-oroja8rdp6987o567hvhd8b1f0s6qo3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940921448646-l7jcqik3p8723rs6ngm27tgul34d8njl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zeConnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940921448646:android:ba7711cd08d0bbd6700fc7",
+        "android_client_info": {
+          "package_name": "com.zeconnect.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940921448646-oroja8rdp6987o567hvhd8b1f0s6qo3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hPtIcwevHv6fXkXbvrzAljeBmfpGPCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940921448646-oroja8rdp6987o567hvhd8b1f0s6qo3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940921448646-l7jcqik3p8723rs6ngm27tgul34d8njl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zeConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
