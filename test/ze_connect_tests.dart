@@ -1,9 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
-  // ============================================
+
   // TESTS UNITAIRES - Logique métier ZE-CONNECT
-  // ============================================
 
   group('TEST 1 - Validation Email', () {
     test('Email valide accepté', () {
@@ -51,9 +50,7 @@ void main() {
     });
   });
 
-  // ============================================
   // TESTS FONCTIONNELS - Parcours utilisateur
-  // ============================================
 
   group('TEST 4 - Inscription utilisateur', () {
     test('Inscription avec tous les champs valides', () {
@@ -102,9 +99,7 @@ void main() {
   });
 
 
-  // ============================================
   // TESTS NON-REGRESSION - Vérifier que rien ne casse
-  // ============================================
 
   group('TEST 6 - Non régression Profil', () {
     test('Nom utilisateur ne peut pas être vide', () {
@@ -139,9 +134,7 @@ void main() {
   });
 }
 
-// ============================================
-// FONCTIONS LOGIQUE MÉTIER (extraites de ton app)
-// ============================================
+// FONCTIONS LOGIQUE MÉTIER 
 
 bool _validateEmail(String email) {
   if (email.isEmpty) return false;
