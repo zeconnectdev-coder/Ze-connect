@@ -1,16 +1,26 @@
-# ze_connect
+# ZE-CONNECT
 
-A new Flutter project.
+Application mobile de transport et livraison au Togo, developpee avec Flutter et Firebase.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+ZE-CONNECT met en relation des clients avec des prestataires de transport (chauffeurs moto, taxis, livreurs). L'application propose 4 interfaces distinctes selon le role de l'utilisateur : CLIENT, ZEDMAN, TAXIMAN et LIVREUR.
 
-A few resources to get you started if this is your first Flutter project:
+## Stack technique
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter / Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase App Distribution
+- Codemagic CI/CD
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Validation logicielle
+
+- 20 tests automatiques ecrits et executes avec Flutter Test
+- 20 cas de test manuels documentes dans Jira Scrum
+- 5 requetes API Firebase testees avec Postman
+- Pipeline CI/CD configure avec Codemagic et GitHub
+
+## Auteur
+
+Jeannette Agbalenyo − agbalenyojeannette3@gmail.com
