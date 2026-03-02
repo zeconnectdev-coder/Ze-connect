@@ -24,3 +24,7 @@ ZE-CONNECT met en relation des clients avec des prestataires de transport (chauf
 ## Auteur
 
 Jeannette Agbalenyo − agbalenyojeannette3@gmail.com
+
+## Dossier de validation
+
+[Télécharger le dossier complet (PDF)](Dossier_Validation_ZeConnect.pdf)
